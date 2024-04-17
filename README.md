@@ -1,6 +1,6 @@
 ### Hi there, I'm Daria Semenova 👋
 
-## I'm a Junior Data Analyst!
+## I'm a Product Analyst!
 - 🔭 I’m currently working at [Tinkoff Business]([https://www.tinkoff.ru/business/reports/](https://www.tinkoff.ru/business/reports/))
 - 🥅 2023 Goals: I want to upgrade my analyst skills
 - ⚡ Fact: I am constantly working
